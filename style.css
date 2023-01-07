@@ -1,0 +1,157 @@
+*{
+    margin:0;
+    font-family: 'Open Sans', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: blueviolet;
+}
+.btn-1{
+    
+    background-color:darksalmon;
+    color:black;
+    padding: 10px 20px;
+    border: none;
+    font-size: 20px;
+    border-radius: 20%;
+}
+/* header area */
+
+.img-size{
+    width: 1350px;
+    height:500px;
+}
+.header-banner{
+    position: relative;
+    text-align: center;
+}
+.descriPtion-title{
+    position: absolute;
+    top: 150px;
+    bottom: 200px;
+    margin-left: 800px;
+}
+
+
+/* main section */
+main{
+    max-width: 1140px;
+    margin:0 auto;
+}
+
+
+/* my Personal detaila */
+.Person-details{
+    display: flex;
+    background-color:cornflowerblue;
+    border-radius: 1%;
+    margin-top: 50px;
+}
+.img2{
+    width:500px;
+    height:400px;
+}
+.descriPtion-title2{
+    margin-top:150Px;
+    margin-left:20px;
+    text-align: center;
+
+}
+.des-details{
+    margin:30Px;
+}
+
+/* my Plan section */
+
+.title{
+    text-align: center;
+    margin-bottom:50Px;
+}
+.My-Plan1{
+    margin-top:50Px;
+    position: relative;
+    
+}
+.my-Plan-container{
+    position: absolute;
+    display: flex;
+    
+    Padding:30Px 70Px;
+    margin-left:205Px;
+}
+.my-Plan{
+    margin-left:30Px;
+    margin-right: 30px;
+}
+
+/* what i style start */
+.whatIDo{
+    margin-top:300Px;
+}
+.section-title{
+    margin-left:500Px;
+    margin-bottom:50Px;
+}
+.skills-container{
+    display: flex;
+    margin-bottom:50px;
+}
+.skills-title{
+    font-weight: 700;
+    font-size: 20Px;
+    margin-top:20Px;
+    margin-bottom:20Px;
+}
+
+.skills-descriPtion{
+    color:#7da582af;
+}
+.skills{
+    background-color: #FFF8F3;
+    box-shadow: 0Px 6Px 50Px rgb(141, 7, 202);
+    border-radius: 5Px;
+    padding:20Px;
+    margin:10Px;
+}
+/* what i do style end */
+
+/* watch start */
+.watch{
+    position: relative;
+}
+
+.title4{
+    position: absolute;
+    top: 150px;
+    left: 50px;
+}
+
+.btn2{
+    margin-top:20Px;
+    color:burlywood;
+    background-color: cornflowerblue;
+    font-size: 20px;
+    border:none;
+    border-radius:10Px;
+}
+
+
+footer{
+    background-color:black;
+}
+
+.descriPtion6{
+    color:white;
+}
+h1,h5{
+    color:white;
+}
+
+.icons{
+    width:50Px;
+    height: 50px;
+}
+
+
