@@ -150,8 +150,17 @@ h1,h5{
 }
 
 .icons{
-    width:50Px;
-    height: 50px;
+    width:30Px;
+    height: 30px;
 }
 
 
+.footer{
+    background-color: crimson;
+}
+.row{
+    display: flex;
+}
+.footer-col{
+    margin:50Px;
+}
